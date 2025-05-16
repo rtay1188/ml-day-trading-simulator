@@ -1,0 +1,13 @@
+yfinance==0.2.60
+psycopg2-binary
+holidays
+pandas
+numpy
+matplotlib
+requests
+pytz
+lightning
+pytorch-forecasting
+scikit-learn
+tqdm
+torch

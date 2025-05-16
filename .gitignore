@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Pytorch-lightning logs
+lightning_logs
+
+# yfinance cache
+yfinance.cache
